@@ -1,0 +1,12 @@
+C:\Users\moskalenko_s\Desktop\My games\famas_last_theorem\famas_last_theorem\bin\Debug\famas_last_theorem.exe.config
+C:\Users\moskalenko_s\Desktop\My games\famas_last_theorem\famas_last_theorem\bin\Debug\famas_last_theorem.exe
+C:\Users\moskalenko_s\Desktop\My games\famas_last_theorem\famas_last_theorem\bin\Debug\famas_last_theorem.pdb
+C:\Users\moskalenko_s\Desktop\My games\famas_last_theorem\famas_last_theorem\obj\Debug\famas_last_theorem.exe
+C:\Users\moskalenko_s\Desktop\My games\famas_last_theorem\famas_last_theorem\obj\Debug\famas_last_theorem.pdb
+C:\Users\moskalenko_s\Desktop\My games\famas_last_theorem\famas_last_theorem\obj\Debug\famas_last_theorem.csprojResolveAssemblyReference.cache
+C:\Users\moskalenko_s\Desktop\My games\fermas_last_theorem\famas_last_theorem\bin\Debug\famas_last_theorem.exe.config
+C:\Users\moskalenko_s\Desktop\My games\fermas_last_theorem\famas_last_theorem\obj\Debug\famas_last_theorem.exe
+C:\Users\moskalenko_s\Desktop\My games\fermas_last_theorem\famas_last_theorem\obj\Debug\famas_last_theorem.pdb
+C:\Users\moskalenko_s\Desktop\My games\fermas_last_theorem\famas_last_theorem\bin\Debug\famas_last_theorem.exe
+C:\Users\moskalenko_s\Desktop\My games\fermas_last_theorem\famas_last_theorem\bin\Debug\famas_last_theorem.pdb
+C:\Users\moskalenko_s\Desktop\My games\fermas_last_theorem\famas_last_theorem\obj\Debug\famas_last_theorem.csprojResolveAssemblyReference.cache
